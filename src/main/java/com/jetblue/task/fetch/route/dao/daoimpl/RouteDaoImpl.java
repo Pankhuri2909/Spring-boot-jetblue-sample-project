@@ -1,5 +1,6 @@
-package com.jetblue.task.fetch.route.dao;
+package com.jetblue.task.fetch.route.dao.daoimpl;
 
+import com.jetblue.task.fetch.route.dao.RouteDao;
 import com.jetblue.task.fetch.route.model.Route;
 import com.jetblue.task.fetch.route.utils.RouteCSVReader;
 import org.springframework.stereotype.Repository;
